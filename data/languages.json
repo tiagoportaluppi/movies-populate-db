@@ -1,0 +1,667 @@
+[
+  {
+    "movieId": 862,
+    "iso_639_1": "en",
+    "name": "English"
+  },
+  {
+    "movieId": 8844,
+    "iso_639_1": "fr",
+    "name": "Français"
+  },
+  {
+    "movieId": 949,
+    "iso_639_1": "es",
+    "name": "Español"
+  },
+  {
+    "movieId": 45325,
+    "iso_639_1": "de",
+    "name": "Deutsch"
+  },
+  {
+    "movieId": 710,
+    "iso_639_1": "ru",
+    "name": "Pусский"
+  },
+  {
+    "movieId": 1408,
+    "iso_639_1": "la",
+    "name": "Latin"
+  },
+  {
+    "movieId": 9691,
+    "iso_639_1": "nl",
+    "name": "Nederlands"
+  },
+  {
+    "movieId": 902,
+    "iso_639_1": "cn",
+    "name": "广州话 / 廣州話"
+  },
+  {
+    "movieId": 37557,
+    "iso_639_1": "zh",
+    "name": "普通话"
+  },
+  {
+    "movieId": 629,
+    "iso_639_1": "hu",
+    "name": "Magyar"
+  },
+  {
+    "movieId": 49133,
+    "iso_639_1": "sq",
+    "name": "shqip"
+  },
+  {
+    "movieId": 49133,
+    "iso_639_1": "it",
+    "name": "Italiano"
+  },
+  {
+    "movieId": 17182,
+    "iso_639_1": "ko",
+    "name": "한국어/조선말"
+  },
+  {
+    "movieId": 46785,
+    "iso_639_1": "fa",
+    "name": "فارسی"
+  },
+  {
+    "movieId": 10534,
+    "iso_639_1": "da",
+    "name": "Dansk"
+  },
+  {
+    "movieId": 197,
+    "iso_639_1": "gd",
+    "name": ""
+  },
+  {
+    "movieId": 11104,
+    "iso_639_1": "ja",
+    "name": "日本語"
+  },
+  {
+    "movieId": 44284,
+    "iso_639_1": "ar",
+    "name": "العربية"
+  },
+  {
+    "movieId": 249882,
+    "iso_639_1": "hr",
+    "name": "Hrvatski"
+  },
+  {
+    "movieId": 249882,
+    "iso_639_1": "bs",
+    "name": "Bosanski"
+  },
+  {
+    "movieId": 649,
+    "iso_639_1": "mn",
+    "name": ""
+  },
+  {
+    "movieId": 1572,
+    "iso_639_1": "ro",
+    "name": "Română"
+  },
+  {
+    "movieId": 9073,
+    "iso_639_1": "id",
+    "name": "Bahasa indonesia"
+  },
+  {
+    "movieId": 9073,
+    "iso_639_1": "ms",
+    "name": "Bahasa melayu"
+  },
+  {
+    "movieId": 19155,
+    "iso_639_1": "mk",
+    "name": ""
+  },
+  {
+    "movieId": 18256,
+    "iso_639_1": "sv",
+    "name": "svenska"
+  },
+  {
+    "movieId": 20156,
+    "iso_639_1": "he",
+    "name": "עִבְרִית"
+  },
+  {
+    "movieId": 4476,
+    "iso_639_1": "kw",
+    "name": ""
+  },
+  {
+    "movieId": 11593,
+    "iso_639_1": "cs",
+    "name": "Český"
+  },
+  {
+    "movieId": 241,
+    "iso_639_1": "nv",
+    "name": ""
+  },
+  {
+    "movieId": 527,
+    "iso_639_1": "mi",
+    "name": ""
+  },
+  {
+    "movieId": 30304,
+    "iso_639_1": "tl",
+    "name": ""
+  },
+  {
+    "movieId": 108,
+    "iso_639_1": "pl",
+    "name": "Polski"
+  },
+  {
+    "movieId": 14334,
+    "iso_639_1": "ga",
+    "name": "Gaeilge"
+  },
+  {
+    "movieId": 2164,
+    "iso_639_1": "no",
+    "name": "Norsk"
+  },
+  {
+    "movieId": 10714,
+    "iso_639_1": "sk",
+    "name": "Slovenčina"
+  },
+  {
+    "movieId": 10449,
+    "iso_639_1": "vi",
+    "name": "Tiếng Việt"
+  },
+  {
+    "movieId": 26141,
+    "iso_639_1": "yi",
+    "name": ""
+  },
+  {
+    "movieId": 10412,
+    "iso_639_1": "pt",
+    "name": "Português"
+  },
+  {
+    "movieId": 14587,
+    "iso_639_1": "hi",
+    "name": "हिन्दी"
+  },
+  {
+    "movieId": 38884,
+    "iso_639_1": "ca",
+    "name": "Català"
+  },
+  {
+    "movieId": 68445,
+    "iso_639_1": "is",
+    "name": "Íslenska"
+  },
+  {
+    "movieId": 16417,
+    "iso_639_1": "af",
+    "name": "Afrikaans"
+  },
+  {
+    "movieId": 11902,
+    "iso_639_1": "sr",
+    "name": "Srpski"
+  },
+  {
+    "movieId": 5801,
+    "iso_639_1": "bn",
+    "name": "বাংলা"
+  },
+  {
+    "movieId": 77771,
+    "iso_639_1": "wo",
+    "name": "Wolof"
+  },
+  {
+    "movieId": 151489,
+    "iso_639_1": "cy",
+    "name": "Cymraeg"
+  },
+  {
+    "movieId": 11134,
+    "iso_639_1": "th",
+    "name": "ภาษาไทย"
+  },
+  {
+    "movieId": 25670,
+    "iso_639_1": "lv",
+    "name": "Latviešu"
+  },
+  {
+    "movieId": 488,
+    "iso_639_1": "sw",
+    "name": "Kiswahili"
+  },
+  {
+    "movieId": 146341,
+    "iso_639_1": "bg",
+    "name": "български език"
+  },
+  {
+    "movieId": 38251,
+    "iso_639_1": "el",
+    "name": "ελληνικά"
+  },
+  {
+    "movieId": 85,
+    "iso_639_1": "ne",
+    "name": ""
+  },
+  {
+    "movieId": 947,
+    "iso_639_1": "tr",
+    "name": "Türkçe"
+  },
+  {
+    "movieId": 28,
+    "iso_639_1": "km",
+    "name": ""
+  },
+  {
+    "movieId": 339,
+    "iso_639_1": "fi",
+    "name": "suomi"
+  },
+  {
+    "movieId": 914,
+    "iso_639_1": "eo",
+    "name": "Esperanto"
+  },
+  {
+    "movieId": 9404,
+    "iso_639_1": "uk",
+    "name": "Український"
+  },
+  {
+    "movieId": 9311,
+    "iso_639_1": "iu",
+    "name": ""
+  },
+  {
+    "movieId": 105763,
+    "iso_639_1": "ka",
+    "name": "ქართული"
+  },
+  {
+    "movieId": 124680,
+    "iso_639_1": "sh",
+    "name": ""
+  },
+  {
+    "movieId": 9746,
+    "iso_639_1": "bo",
+    "name": ""
+  },
+  {
+    "movieId": 34582,
+    "iso_639_1": "nb",
+    "name": "Bokmål"
+  },
+  {
+    "movieId": 12311,
+    "iso_639_1": "ty",
+    "name": ""
+  },
+  {
+    "movieId": 19,
+    "iso_639_1": "xx",
+    "name": "No Language"
+  },
+  {
+    "movieId": 87,
+    "iso_639_1": "si",
+    "name": ""
+  },
+  {
+    "movieId": 14785,
+    "iso_639_1": "as",
+    "name": ""
+  },
+  {
+    "movieId": 11416,
+    "iso_639_1": "gn",
+    "name": ""
+  },
+  {
+    "movieId": 16535,
+    "iso_639_1": "eu",
+    "name": "euskera"
+  },
+  {
+    "movieId": 17078,
+    "iso_639_1": "az",
+    "name": "Azərbaycan"
+  },
+  {
+    "movieId": 11327,
+    "iso_639_1": "mt",
+    "name": "Malti"
+  },
+  {
+    "movieId": 10557,
+    "iso_639_1": "ur",
+    "name": "اردو"
+  },
+  {
+    "movieId": 35936,
+    "iso_639_1": "zu",
+    "name": "isiZulu"
+  },
+  {
+    "movieId": 11856,
+    "iso_639_1": "lo",
+    "name": ""
+  },
+  {
+    "movieId": 95682,
+    "iso_639_1": "xh",
+    "name": ""
+  },
+  {
+    "movieId": 78248,
+    "iso_639_1": "bm",
+    "name": "Bamanankan"
+  },
+  {
+    "movieId": 41784,
+    "iso_639_1": "cr",
+    "name": ""
+  },
+  {
+    "movieId": 28171,
+    "iso_639_1": "ps",
+    "name": "پښتو"
+  },
+  {
+    "movieId": 855,
+    "iso_639_1": "so",
+    "name": "Somali"
+  },
+  {
+    "movieId": 28988,
+    "iso_639_1": "ku",
+    "name": ""
+  },
+  {
+    "movieId": 16351,
+    "iso_639_1": "hy",
+    "name": ""
+  },
+  {
+    "movieId": 12716,
+    "iso_639_1": "oc",
+    "name": ""
+  },
+  {
+    "movieId": 455,
+    "iso_639_1": "pa",
+    "name": "ਪੰਜਾਬੀ"
+  },
+  {
+    "movieId": 16651,
+    "iso_639_1": "to",
+    "name": ""
+  },
+  {
+    "movieId": 72996,
+    "iso_639_1": "ce",
+    "name": ""
+  },
+  {
+    "movieId": 20689,
+    "iso_639_1": "qu",
+    "name": ""
+  },
+  {
+    "movieId": 25237,
+    "iso_639_1": "be",
+    "name": "беларуская мова"
+  },
+  {
+    "movieId": 9839,
+    "iso_639_1": "am",
+    "name": ""
+  },
+  {
+    "movieId": 10573,
+    "iso_639_1": "tg",
+    "name": ""
+  },
+  {
+    "movieId": 895,
+    "iso_639_1": "tt",
+    "name": ""
+  },
+  {
+    "movieId": 2172,
+    "iso_639_1": "se",
+    "name": ""
+  },
+  {
+    "movieId": 21210,
+    "iso_639_1": "ml",
+    "name": ""
+  },
+  {
+    "movieId": 21210,
+    "iso_639_1": "ta",
+    "name": "தமிழ்"
+  },
+  {
+    "movieId": 2841,
+    "iso_639_1": "co",
+    "name": ""
+  },
+  {
+    "movieId": 1913,
+    "iso_639_1": "gl",
+    "name": "Galego"
+  },
+  {
+    "movieId": 37232,
+    "iso_639_1": "dz",
+    "name": ""
+  },
+  {
+    "movieId": 16374,
+    "iso_639_1": "rw",
+    "name": "Kinyarwanda"
+  },
+  {
+    "movieId": 1540,
+    "iso_639_1": "ht",
+    "name": ""
+  },
+  {
+    "movieId": 496,
+    "iso_639_1": "kk",
+    "name": "қазақ"
+  },
+  {
+    "movieId": 1247,
+    "iso_639_1": "ln",
+    "name": ""
+  },
+  {
+    "movieId": 7555,
+    "iso_639_1": "my",
+    "name": ""
+  },
+  {
+    "movieId": 28205,
+    "iso_639_1": "et",
+    "name": "Eesti"
+  },
+  {
+    "movieId": 7797,
+    "iso_639_1": "sa",
+    "name": ""
+  },
+  {
+    "movieId": 53196,
+    "iso_639_1": "lt",
+    "name": "Lietuvix9akai"
+  },
+  {
+    "movieId": 260528,
+    "iso_639_1": "fy",
+    "name": ""
+  },
+  {
+    "movieId": 168261,
+    "iso_639_1": "tk",
+    "name": ""
+  },
+  {
+    "movieId": 46595,
+    "iso_639_1": "sl",
+    "name": "Slovenščina"
+  },
+  {
+    "movieId": 69426,
+    "iso_639_1": "te",
+    "name": "తెలుగు"
+  },
+  {
+    "movieId": 17654,
+    "iso_639_1": "ny",
+    "name": ""
+  },
+  {
+    "movieId": 17654,
+    "iso_639_1": "st",
+    "name": ""
+  },
+  {
+    "movieId": 42225,
+    "iso_639_1": "sc",
+    "name": ""
+  },
+  {
+    "movieId": 12572,
+    "iso_639_1": "gu",
+    "name": ""
+  },
+  {
+    "movieId": 71329,
+    "iso_639_1": "ff",
+    "name": "Fulfulde"
+  },
+  {
+    "movieId": 35572,
+    "iso_639_1": "mr",
+    "name": ""
+  },
+  {
+    "movieId": 51885,
+    "iso_639_1": "ug",
+    "name": ""
+  },
+  {
+    "movieId": 60708,
+    "iso_639_1": "ay",
+    "name": ""
+  },
+  {
+    "movieId": 255772,
+    "iso_639_1": "ky",
+    "name": "??????"
+  },
+  {
+    "movieId": 34433,
+    "iso_639_1": "jv",
+    "name": ""
+  },
+  {
+    "movieId": 82507,
+    "iso_639_1": "br",
+    "name": ""
+  },
+  {
+    "movieId": 84172,
+    "iso_639_1": "sg",
+    "name": ""
+  },
+  {
+    "movieId": 8985,
+    "iso_639_1": "lb",
+    "name": ""
+  },
+  {
+    "movieId": 282376,
+    "iso_639_1": "ab",
+    "name": ""
+  },
+  {
+    "movieId": 219343,
+    "iso_639_1": "kn",
+    "name": "?????"
+  },
+  {
+    "movieId": 104965,
+    "iso_639_1": "uz",
+    "name": "ozbek"
+  },
+  {
+    "movieId": 77322,
+    "iso_639_1": "sm",
+    "name": ""
+  },
+  {
+    "movieId": 58493,
+    "iso_639_1": "ki",
+    "name": ""
+  },
+  {
+    "movieId": 102873,
+    "iso_639_1": "tn",
+    "name": ""
+  },
+  {
+    "movieId": 146184,
+    "iso_639_1": "fo",
+    "name": ""
+  },
+  {
+    "movieId": 185752,
+    "iso_639_1": "sn",
+    "name": ""
+  },
+  {
+    "movieId": 359151,
+    "iso_639_1": "bi",
+    "name": ""
+  },
+  {
+    "movieId": 325803,
+    "iso_639_1": "ha",
+    "name": "Hausa"
+  },
+  {
+    "movieId": 325803,
+    "iso_639_1": "ig",
+    "name": ""
+  },
+  {
+    "movieId": 244698,
+    "iso_639_1": "mh",
+    "name": ""
+  }
+]
