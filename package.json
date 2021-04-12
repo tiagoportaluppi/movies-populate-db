@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "mapping": "node --max-old-space-size=4096 src/index.js"
+    "mapping": "node --max-old-space-size=4096 src/mappings/index.js",
+    "populate": "node --max-old-space-size=4096 src/populate/index.js"
   },
   "author": "",
   "license": "ISC",
